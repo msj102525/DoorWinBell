@@ -1,5 +1,6 @@
 # DoorWinBell
-# 스타일 옵션: merko, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
+
+<!-- 스타일 옵션: merko, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msj102525&layout=compact&theme=merko)
 
 <div>
